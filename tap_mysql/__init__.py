@@ -48,7 +48,8 @@ BYTES_FOR_INTEGER_TYPE = {
     'smallint': 2,
     'mediumint': 3,
     'int': 4,
-    'bigint': 8
+    'bigint': 8,
+    'year': 1,
 }
 
 FLOAT_TYPES = {'float', 'double'}
